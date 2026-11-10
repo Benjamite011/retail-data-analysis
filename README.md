@@ -25,11 +25,10 @@ Analysis of about 540,000 transactions from a UK-based online retailer (1 Decemb
 7. **65.3% of customers ordered more than once** (excluding cancellation invoices). Counting cancellations as orders would have inflated this to 69.6%.
 8. **RFM segmentation:** "Champions" were 22.1% of customers but 65.3% of purchase value.
 
-![Monthly net sales](images/monthly_net_sales.png)
-![Top 10 products by net sales](images/top10_products_net.png)
-![International markets](images/top_international_countries.png)
-![Customer concentration](images/customer_concentration.png)
-
+![Monthly net sales](monthly_net_sales.png)
+![Top 10 products by net sales](top10_products_net.png)
+![International markets](top_international_countries.png)
+![Customer concentration](customer_concentration.png)
 ## Dataset
 
 - **Source:** UCI Machine Learning Repository, Online Retail dataset: https://archive.ics.uci.edu/dataset/352/online+retail
