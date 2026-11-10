@@ -34,7 +34,8 @@ Analysis of about 540,000 transactions from a UK-based online retailer (1 Decemb
 - **Source:** UCI Machine Learning Repository, Online Retail dataset: https://archive.ics.uci.edu/dataset/352/online+retail
 - **Period:** December 2010 to 9 December 2011
 - **Size:** 541,909 rows and 8 columns
-- **Citation and licence:** *(copy the citation and licence from the UCI page and paste them here)*
+- - **Citation:** Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
+- **Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
 
 The data is not included in this repository. See "How to Run".
 
